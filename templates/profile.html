@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block title %}Profile{% endblock %}
+
+	{% block content %}
+
+	{% load crispy_forms_tags %}
+
+	<!--User-->
+	<br><br>
+	<div class="container mx-auto">
+	    <div class="row">
+	    	<div class="col-sm-12 col-md-12 col-lg-3 pb-4">
+		    	<div class="card p-4">
+			    	<h4 class="card-title font-weight-bold text-center">How you doin' {{ user.first_name|title }}?</h4>
+			      	<hr>
+			    	<div class="card-text">
+			    		<p class="text-muted mb-0" style="font-size: 12px">Username:</p>
+			    		<p>{{ user.username }}</p>
+			    		<p class="text-muted mb-0" style="font-size: 12px">Name:</p>
+				  		<p>{{ user.first_name }} {{ user.last_name }}</p>
+				  		<p class="text-muted mb-0" style="font-size: 12px">Email:</p>
+				  		<p>{{ user.email }} </p>
+						<div class="col-sm-12 col-md-12 col-lg-9 pb-4">
+				<br/>
+                <p><a class="text-success" href="{% url 'reports_view' %}">Report History</a></p>
+				<p><a class="text-danger" href="{% url 'input_symptoms_view' %}">Input Symptoms</a></p>
+
+
+
+			        </div>
+		    	</div>
+		  	</div>
+
+		    </div>
+		</div>
+	</div>
+
+	{% endblock %}

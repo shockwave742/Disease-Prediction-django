@@ -1,0 +1,24 @@
+
+{% extends 'base.html' %}
+{% block title %} Reports {% endblock %}
+
+{% block content %}
+<div class="card">
+  <div class="card-body">
+    <h2> Here are your history of records: </h2>
+      <br/>
+    {% for item in reports_list %}
+        <p>Date: {{item.created_at }}</p>
+        <p>Input:  {{ item.input }}</p>
+        <h6>Results:  {{ item.result }}</h6>
+      <div class="text-success">
+        <hr class="border border-danger border-2 opacity-50">
+      </div>
+      {% endfor %}
+
+  </div>
+</div>
+
+
+
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}Sign Up{% endblock %}
+
+{% block content %}
+<div class="card">
+  <div class="card-body">
+    <h2>Sign Up</h2>
+  <form method="post">
+    {% csrf_token %}
+    <div class="mb-3">
+      <input type="text" name="username"  class="form-control" placeholder="Username" id="username" aria-describedby="username">
+      <div>
+    </div>
+      <div class="mb-3">
+    <input type="email" class="form-control" name="email" placeholder="Email" id="email" aria-describedby="emailHelp" >
+    <div>
+  </div>
+  <div class="mb-3">
+    <input type="number" class="form-control" name="phone_number" placeholder="Phone Number" id="phone_number" >
+    <input type="password" name="password1"  class="form-control" placeholder="Password" id="password1" aria-describedby="passwordHelpInline">
+    <div class="mb-3">
+      <input type="password" name="password2" class="form-control" placeholder="Password Confirmation" id="password2" aria-describedby="passwordHelpInline">
+      <div>
+    <div class="mb-3">
+
+<br/>
+      <p> Already have an account? <a href="../accounts/login/">Login </a> </p>
+      <br/>
+      <button type="submit" class="btn btn-outline-primary">Sign Up</button>
+  </div>
+</div>
+
+
+
+  </form>
+  </div>
+</div>
+
+{% endblock %}
+
+

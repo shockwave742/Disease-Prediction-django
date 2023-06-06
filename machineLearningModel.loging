@@ -1,0 +1,1532 @@
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /admin/MyApp/tempinput/add/
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 1890, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 1750, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 1808, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 924, in log_addition
+    object_repr=str(obj),
+                ^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\models.py", line 168, in __str__
+    return str(self.TempInput)
+               ^^^^^^^^^^^^^^
+AttributeError: 'TempInput' object has no attribute 'TempInput'
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 72, in input_symptoms_view
+    tokens = get_object_or_404(UserProfileModel.tokens, username=request.user.username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\shortcuts.py", line 80, in get_object_or_404
+    raise ValueError(
+ValueError: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'DeferredAttribute'.
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 72, in input_symptoms_view
+    tokens = get_object_or_404(UserProfileModel.tokens, username=request.user.username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\shortcuts.py", line 80, in get_object_or_404
+    raise ValueError(
+ValueError: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'DeferredAttribute'.
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 72, in input_symptoms_view
+    tokens = get_object_or_404(UserProfileModel.tokens, username=request.user.username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\shortcuts.py", line 80, in get_object_or_404
+    raise ValueError(
+ValueError: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'DeferredAttribute'.
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\options.py", line 668, in get_field
+    return self.fields_map[field_name]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'token'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 89, in input_symptoms_view
+    UserProfileModel.objects.filter(username=request.user.username).update(token=+ 1)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1173, in update
+    query.add_update_values(kwargs)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\subqueries.py", line 88, in add_update_values
+    field = self.get_meta().get_field(name)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\options.py", line 670, in get_field
+    raise FieldDoesNotExist(
+django.core.exceptions.FieldDoesNotExist: UserProfileModel has no field named 'token'
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 87, in input_symptoms_view
+    form.save()
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\forms\models.py", line 548, in save
+    self.instance.save()
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 91, in input_symptoms_view
+    form2.save()
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 85, in input_symptoms_view
+    plan.save()
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 91, in input_symptoms_view
+    plan.save()
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 91, in input_symptoms_view
+    plan.save()
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 88, in input_symptoms_view
+    obj = form.save()
+          ^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\forms\models.py", line 548, in save
+    self.instance.save()
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 88, in input_symptoms_view
+    obj = form.save()
+          ^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\forms\models.py", line 548, in save
+    self.instance.save()
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: MyApp_tempinputmodel.user_id
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /input-symptoms
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 89, in input_symptoms_view
+    obj.user = request.user.username
+    ^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 237, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'test7'": "TempInputModel.user" must be a "UserProfileModel" instance.
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /choice_for_users
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2018, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'test7'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 118, in PassCleanData_view
+    input_info_from_user = get_object_or_404(TempInputModel, user=request.user.username)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\shortcuts.py", line 85, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 636, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1421, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1439, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 1446, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\query.py", line 1532, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\query.py", line 1562, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\query.py", line 1478, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\query.py", line 1303, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2020, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got 'test7'.
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /choice_for_users
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 166, in PassCleanData_view
+    form = TempChoiceForm()
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\forms\models.py", line 356, in __init__
+    raise ValueError("ModelForm has no model class specified.")
+ValueError: ModelForm has no model class specified.
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /choice_for_users
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 118, in PassCleanData_view
+    input_info_from_user = get_object_or_404(TempInputModel, user=request.user.id)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\shortcuts.py", line 85, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+MyApp.models.TempInputModel.MultipleObjectsReturned: get() returned more than one TempInputModel -- it returned 6!
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\forms.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /choice_for_users
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 118, in PassCleanData_view
+    input_info_from_user = get_object_or_404(TempInputModel, user=request.user.id)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\shortcuts.py", line 85, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+MyApp.models.TempInputModel.MultipleObjectsReturned: get() returned more than one TempInputModel -- it returned 7!
+ERROR:django.request:Internal Server Error: /choice_for_users
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 166, in PassCleanData_view
+    form = TempChoiceForm()
+           ^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\forms\models.py", line 356, in __init__
+    raise ValueError("ModelForm has no model class specified.")
+ValueError: ModelForm has no model class specified.
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\views.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /choice_for_users
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Git\Silk_Road\Project\MyApp\views.py", line 118, in PassCleanData_view
+    input_info_from_user = get_object_or_404(TempInputModel, user=request.user.id)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\shortcuts.py", line 85, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 653, in get
+    raise self.model.MultipleObjectsReturned(
+MyApp.models.TempInputModel.MultipleObjectsReturned: get() returned more than one TempInputModel -- it returned 2!
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /admin/MyApp/tempinputmodel/
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: MyApp_tempinputmodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 1931, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 834, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+           ^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\query.py", line 621, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\query.py", line 559, in get_count
+    return obj.get_aggregation(using, ["__count"])["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\query.py", line 544, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Germany\GEORG-AUGUST Universitat Gottingen\WiSe22\B.inf.1842\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: MyApp_tempinputmodel
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing    shivering       chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  4920.000000  4920.000000  ...          4920.000000           4920.000000         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122     0.021951     0.162195  ...             0.023171              0.023171            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593     0.146539     0.368667  ...             0.150461              0.150461            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000     0.000000     0.000000  ...             0.000000              0.000000            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000     1.000000     1.000000  ...             1.000000              1.000000            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering     chills  ...  silver_like_dusting  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  42.000000  ...            42.000000             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810   0.166667  ...             0.023810              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303   0.377195  ...             0.154303              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000   0.000000  ...             0.000000              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000   1.000000  ...             1.000000              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:E:\Git\Silk_Road\Project\MyApp\models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:root:           itching    skin_rash  nodal_skin_eruptions  continuous_sneezing  ...  inflammatory_nails      blister  red_sore_around_nose  yellow_crust_ooze
+count  4920.000000  4920.000000           4920.000000          4920.000000  ...         4920.000000  4920.000000           4920.000000        4920.000000
+mean      0.137805     0.159756              0.021951             0.045122  ...            0.023171     0.023171              0.023171           0.023171
+std       0.344730     0.366417              0.146539             0.207593  ...            0.150461     0.150461              0.150461           0.150461
+min       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+25%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+50%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+75%       0.000000     0.000000              0.000000             0.000000  ...            0.000000     0.000000              0.000000           0.000000
+max       1.000000     1.000000              1.000000             1.000000  ...            1.000000     1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:         itching  skin_rash  nodal_skin_eruptions  continuous_sneezing  shivering  ...  small_dents_in_nails  inflammatory_nails    blister  red_sore_around_nose  yellow_crust_ooze
+count  42.000000  42.000000             42.000000            42.000000  42.000000  ...             42.000000           42.000000  42.000000             42.000000          42.000000
+mean    0.166667   0.190476              0.023810             0.047619   0.023810  ...              0.023810            0.023810   0.023810              0.047619           0.023810
+std     0.377195   0.397437              0.154303             0.215540   0.154303  ...              0.154303            0.154303   0.154303              0.215540           0.154303
+min     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+25%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+50%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+75%     0.000000   0.000000              0.000000             0.000000   0.000000  ...              0.000000            0.000000   0.000000              0.000000           0.000000
+max     1.000000   1.000000              1.000000             1.000000   1.000000  ...              1.000000            1.000000   1.000000              1.000000           1.000000
+
+[8 rows x 132 columns]
+INFO:root:0
+INFO:django.utils.autoreload:Watching for file changes with StatReloader

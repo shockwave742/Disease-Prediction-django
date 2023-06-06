@@ -1,39 +1,18 @@
-
-
 {% extends 'base.html' %}
 
 {% block content %}
 
+{% load crispy_forms_tags %}
 
-{% if error %}
-{{ error }}
-
-<br/>
-<br/>
-{% endif %}
-
-<h1>Signup!</h1>
-
-<form method = "POST" action="{% url 'register' %}">
-    {% csrf_token %}
-    username:
-    <br/>
-    <input type="text" name="username" />
-    <br/>
-    Password:
-    <br/>
-    <input type="password" name="password1" />
-    <br/>
-    confirm Password:
-    <br/>
-    <input type="password" name="password2" />
-    <br/>
-    <input class ="btn btn-primary" type="submit" value= "signup" />
-    <br/>
-
-
-
-</form>
-
+<!--Register-->
+<div class="container py-5">
+	<h1>Register</h1>
+	<form method="POST">
+		{% csrf_token %}
+		{{ register_form|crispy }}
+		<button class="btn btn-primary" type="submit">Register</button>
+	</form>
+	<p class="text-center">If you already have an account, <a href="../login">login</a> instead.</p>
+</div>
 
 {% endblock %}

@@ -1,0 +1,26 @@
+
+{% extends 'base.html' %}
+
+{% block title %} input page {% endblock %}
+
+{% block content %}
+
+    <div class="container">
+        <form method="post">
+
+            <div class="card">
+                <div class="card-body">
+                <h4> Please input symptoms: {{ user.first_name|title }}</h4>
+                {% csrf_token %}
+                    <div class="mb-3">
+                        {{ form.as_p }}
+
+                        <button type="submit" class="btn btn-outline-primary">submit</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+{% endblock %}

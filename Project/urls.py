@@ -15,12 +15,29 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from MyApp import views as views
-from MyApp import urls as MyApp_urls
-from SymptomsApp import views as views2
+from MyApp import views as v1
+from django.conf import settings
+from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.index, name='index'),
-    path('accounts', include(MyApp_urls)),
-]
+    path('', v1.index),
+    path('home', v1.index, name='home'),
+    path('accounts/', include('django.contrib.auth.urls')),
+    path("signup/", v1.SignUpView.as_view(), name="signup"),
+    path('profile', v1.profile_view, name='profile_view'),
+    path('reports', v1.reports_view, name='reports_view'),
+    path('input-symptoms', v1.input_symptoms_view, name='input_symptoms_view'),
+    path('error', v1.error_token_view, name='error_token_view'),
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+'''
+accounts/login/ [name='login']
+accounts/logout/ [name='logout']
+accounts/password_change/ [name='password_change']
+accounts/password_change/done/ [name='password_change_done']
+accounts/password_reset/ [name='password_reset']
+accounts/password_reset/done/ [name='password_reset_done']
+accounts/reset/<uidb64>/<token>/ [name='password_reset_confirm']
+accounts/reset/done/ [name='password_reset_complete']
+'''

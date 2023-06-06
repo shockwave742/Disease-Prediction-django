@@ -1,0 +1,33 @@
+
+{% extends 'base.html' %}
+
+{% block title %} Home {% endblock %}
+
+{% block content %}
+
+<div class="card">
+  <div class="card-body">
+<div class="card text-bg-danger mb-3" style="max-width: 100rem;">
+
+    <div class="p-3 mb-2 bg-info text-white">Disease Prediction by Registration and Giving the Symptoms</div>
+  <div class="card-body">
+    <h5 class="card-title">How to become Silk-ish?</h5>
+    <p class="card-text">As it is clear to everyone the Silk Road made a contribution to  facilitated helped create an environment in which the synthesis of a broad array of medical traditions from across Eurasia could be carried out, and allowed for medicinal substances, predominantly plants, to be traded across vast distances. And that's what we do here but with Tech! Just give us the symptoms and we would give you our suggestions! Easy Peasy!</p>
+  </div>
+</div>
+{% if user.is_authenticated %}
+    <div class="text-secondary">
+  <h2> Hey {{ user.username }}! We missed you!</h2>
+      </div>
+    {# Your Full name is {{ user.first_name }} {{ user.last_name }} #}
+    <p>   See your profile here: <a href="/profile">Profile</a></p>
+  <p>  If you wanna leave us :'( <a href="{% url 'logout' %}">Log Out</a></p>
+  <p> Goldfish memory? <a href="{% url 'password_reset' %}">Reset Password</a></p>
+{% else %}
+  <p>   You are not logged in! Please <a href="{% url 'login' %}">log In</a> or <a href="{% url 'signup' %}">signup</a> :P <p>
+
+</div>
+
+
+{% endif %}
+{% endblock %}
