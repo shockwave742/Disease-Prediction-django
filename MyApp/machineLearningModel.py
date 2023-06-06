@@ -90,7 +90,7 @@ def findDesesFromSymptom(Userinput):
     # Might be helpful for test #
 
 
-print(findDesesFromSymptom('yellow_crust_ooze,palpitations'))
+#print(findDesesFromSymptom('yellow_crust_ooze,palpitations'))
 
 
 '''
