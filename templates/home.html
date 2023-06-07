@@ -11,23 +11,28 @@
 
     <div class="p-3 mb-2 bg-info text-white">Disease Prediction by Registration and Giving the Symptoms</div>
   <div class="card-body">
-    <h5 class="card-title">How to become Silk-ish?</h5>
-    <p class="card-text">As it is clear to everyone the Silk Road made a contribution to  facilitated helped create an environment in which the synthesis of a broad array of medical traditions from across Eurasia could be carried out, and allowed for medicinal substances, predominantly plants, to be traded across vast distances. And that's what we do here but with Tech! Just give us the symptoms and we would give you our suggestions! Easy Peasy!</p>
+    <h5 class="card-title">How does the project work?</h5>
+      <p class="card-text">We use a decision tree Machine Learning model to train the prediction model on a public database on kaggel website, first we use the training data to train the model then we test the accuracy using the test dataset, we ended up with an accuracy of 97 percent for the  model. <a href="https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning">reference</a></p>
+      <p class="card-text">The model is trained on 132 symptoms and 41 diseases, the model takes the symptoms from the user and predicts the disease.</p>
+      <p class="card-text">You can see previous records in your profile</p>
   </div>
 </div>
 {% if user.is_authenticated %}
     <div class="text-secondary">
-  <h2> Hey {{ user.username }}! We missed you!</h2>
+  <h2> Hey {{ user.first_name|title }}! We missed you!</h2>
       </div>
     {# Your Full name is {{ user.first_name }} {{ user.last_name }} #}
     <p>   See your profile here: <a href="/profile">Profile</a></p>
-  <p>  If you wanna leave us :'( <a href="{% url 'logout' %}">Log Out</a></p>
-  <p> Goldfish memory? <a href="{% url 'password_reset' %}">Reset Password</a></p>
+  <p>  Press here to sign out <a href="{% url 'logout' %}">Log Out</a></p>
+    {% include "input.html" %}
+    {# <p>you can use this link to input any symptoms you have: <a class="text-danger" href="{% url 'input_symptoms_view' %}">Input Symptoms</a></p> #}
+
 {% else %}
   <p>   You are not logged in! Please <a href="{% url 'login' %}">log In</a> or <a href="{% url 'signup' %}">signup</a> :P <p>
+    <p> Goldfish memory? <a href="{% url 'password_reset' %}">Reset Password</a></p>
 
 </div>
-
+    </div>
 
 {% endif %}
 {% endblock %}

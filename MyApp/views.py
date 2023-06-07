@@ -102,6 +102,44 @@ def input_symptoms_view(request):
     context = {'form': form}
     return render(request, template_name, context)
 
+@login_required
+def home_input_view(request):
+    user1 = get_object_or_404(UserProfileModel, username=request.user.username)
+
+    tk = user1.tokens
+
+    # create a form instance and populate it with data from the request:
+    form = InputForm(request.POST, initial={'user': request.user.id})
+    # create the django object in memory, but don't save to the database
+
+    if tk >= 1:
+        # temporary saves dirty input
+        if request.method == 'POST':
+
+            # check whether it's valid:
+
+            if form.is_valid():
+                form.save(commit=True)
+
+                # process the data in form.cleaned_data as required
+                # ...
+
+                UserProfileModel.objects.filter(username=request.user.username).update(tokens=(tk - 1))
+                # redirect to a new URL:
+                return HttpResponseRedirect('/reports')
+    else:
+        # Better be a error page
+        print("user has no tokens")
+        return HttpResponseRedirect('/error')
+    template_name = 'home.html'
+    # reading txt file from static folder
+    file = open('static/symptoms_list.txt', 'r')
+    # the elements in the symptoms list are seperated by comma making a list of symptoms and saving them in a list
+    symptoms_list = file.read().split(',')
+    context = {'form': form, 'symptoms_list': symptoms_list, 'tokens': tk}
+    return render(request, template_name, context)
+
+
 '''
 @login_required
 def input_symptoms_view(request):

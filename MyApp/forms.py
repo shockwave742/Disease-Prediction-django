@@ -35,15 +35,17 @@ class NewUserForm(forms.ModelForm):
 
 
 class UpdateProfileForm(UserChangeForm):
-
     class Meta:
         model = UserProfileModel
-        fields = ("username", "email", "phone_number", "gender", "first_name", "middle_name", "last_name", "tokens", "access_level", "uid")
+        fields = ("username", "email", "phone_number", "gender", "first_name", "middle_name", "last_name", "tokens",
+                  "access_level", "uid")
 
 
 class InputForm(forms.ModelForm):
+    # auto fill the user field
+    user = forms.ModelChoiceField(queryset=UserProfileModel.objects.all(), widget=forms.HiddenInput())
 
     class Meta:
         model = InputModel
-        fields = ['input_user', 'user']
-        #widgets = {'user': forms.HiddenInput()}
+        fields = ['input_user']
+

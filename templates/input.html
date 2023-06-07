@@ -1,0 +1,23 @@
+    <div class="container">
+    <p>remaining tokens: {{ tokens }}</p>
+        <form method="post">
+            <div class="card">
+                <div class="card-body">
+                <h4> Please input symptoms here: </h4>
+                    <p>choose 2-6 symptoms from this list and copy and paste them into the box below, do not use any spaces and seperate the symptoms using commas (,) example: itching,skin_rash,nodal_skin_eruptions</p>
+                    {# making a list out of symptoms.txt file #}
+                    {% for symptom in symptoms_list %}
+                        <ul>
+                        <li>{{ symptom }}</li>
+                        </ul>
+                    {% endfor %}
+                {% csrf_token %}
+                    <div class="mb-3">
+                        {{ form.as_p }}
+
+                        <button type="submit" class="btn btn-outline-primary">submit</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>

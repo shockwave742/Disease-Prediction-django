@@ -9,12 +9,15 @@ import graphviz
 import random
 import matplotlib.pyplot as plt
 
+
+
 # TODO change the level
-# logging.basicConfig(filename='machineLearningModel.loging', level=logging.INFO)
+logging.basicConfig(filename='machineLearningModel.loging', level=logging.INFO)
 import numpy as np
 
 
 def makeTheTree():
+
     url = 'https://drive.google.com/file/d/1kvMs5zK1TRiUeg574_kbSc1mnWumDkxc/view?usp=sharing'
     file_id = url.split('/')[-2]
     dwn_url = 'https://drive.google.com/uc?id=' + file_id
@@ -34,7 +37,9 @@ def makeTheTree():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=44, shuffle=True)
     clf = tree.DecisionTreeClassifier(max_depth=50)
     clf = clf.fit(X_train, y_train)
-    logging.info('Accuracy in validation: ', accuracy_score(y_test, clf.predict(X_test)))
+    accuracy_train = accuracy_score(y_train, clf.predict(X_train))
+    logging.info('Accuracy in validation: ', accuracy_train)
+    print('Accuracy in validation: ', accuracy_train)
     #dot_data = tree.export_graphviz(clf, out_file='GraphicalTree.dot')
     #graph = graphviz.Source(dot_data)
     #graph.render("GraphicalTree")
@@ -51,10 +56,14 @@ def makeTheTree():
     df_tests = df_tests.fillna(0)
     X_tests = df_tests.drop(columns=['prognosis'])
     y_tests = df_tests['prognosis']
-    logging.info('Accuracy in test: ', accuracy_score(y_tests, clf.predict(X_tests)))
-    logging.info('f1 Macro(Unweighted mean. This does not take label imbalance into account'
-                 '):', f1_score(y_tests, clf.predict(X_tests), average='macro'))
-    logging.info('recall score Macro: ', recall_score(y_tests, clf.predict(X_tests), average='macro'))
+
+    # taking log and saving it in a file
+    accuracy_test = accuracy_score(y_tests, clf.predict(X_tests))
+    logging.info('Accuracy in test: ', accuracy_test)
+    print('Accuracy in test: ', accuracy_test)
+    #logging.info('f1 Macro(Unweighted mean. This does not take label imbalance into account'
+    #           '):', f1_score(y_tests, clf.predict(X_tests), average='macro'))
+    #logging.info('recall score Macro: ', recall_score(y_tests, clf.predict(X_tests), average='macro'))
 
     return clf
 
@@ -83,8 +92,11 @@ def findDesesFromSymptom(Userinput):
 
     clf = makeTheTree()
 
-    tree.plot_tree(clf)
-    plt.show()
+    # we make a graphical tree of the clf
+    tree.plot_tree(clf, filled=True)
+    # and save it in a pdf file
+    plt.savefig('graphicalTree.pdf')
+
 
     return clf.predict(final_input)  # returns disease
     # Might be helpful for test #

@@ -21,8 +21,8 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', v1.index),
-    path('home', v1.index, name='home'),
+    path('', v1.home_input_view),
+    path('home', v1.home_input_view, name='home'),
     path('accounts/', include('django.contrib.auth.urls')),
     path("signup/", v1.SignUpView.as_view(), name="signup"),
     path('profile', v1.profile_view, name='profile_view'),

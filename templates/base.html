@@ -12,11 +12,10 @@
     <title> {% block title %} So Silk-ish! {% endblock %} </title>
   </head>
 
-  <body  id="bg" style="background-image: url({% static "img/humanbody.png" %});">
-
+  <body  id="bg" style="background-image: url({% static "img/background3.jpg" %});">
     <nav class="navbar bg-light" data-bs-theme="dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="{% url 'home' %}">Find It Through Silk Road!</a>
+    <a class="navbar-brand" href="{% url 'home' %}">Disease-prediction using symptoms list</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -30,7 +29,7 @@
 
 
     <span class="navbar-text" >
-      Admin email: Marabs97@gmail.com
+      Admin email: amirreza.aleyasin@stud.uni-goettingen.de
     </span>
           <a class="nav-link" href="/profile">Profile</a>
 
@@ -50,7 +49,7 @@
  
 <style>
    body{
-    background: url({% static 'img/humanbody.png'%}) no-repeat center center fixed;
+    background: url({% static 'img/background3.jpg'%}) no-repeat center center fixed;
     -webkit-background-size:cover;
     -moz--background-size:cover;
     -o--background-size:cover;
