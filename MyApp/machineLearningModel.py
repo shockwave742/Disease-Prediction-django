@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 
 # TODO change the level
-logging.basicConfig(filename='machineLearningModel.loging', level=logging.INFO)
+logging.basicConfig(filename='MyApp/files/logs/machineLearningModel.loging', level=logging.INFO)
 import numpy as np
 
 
@@ -95,7 +95,7 @@ def findDesesFromSymptom(Userinput):
     # we make a graphical tree of the clf
     tree.plot_tree(clf, filled=True)
     # and save it in a pdf file
-    plt.savefig('graphicalTree.pdf')
+    plt.savefig('MyApp/files/pdfs/graphicalTree.pdf')
 
 
     return clf.predict(final_input)  # returns disease

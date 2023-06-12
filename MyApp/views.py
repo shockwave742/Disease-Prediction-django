@@ -102,14 +102,17 @@ def input_symptoms_view(request):
     context = {'form': form}
     return render(request, template_name, context)
 
-@login_required
-def home_input_view(request):
-    user1 = get_object_or_404(UserProfileModel, username=request.user.username)
 
-    tk = user1.tokens
+def home_input_view(request):
+    # if the user was logged in, then we get the user object
+    if request.user.is_authenticated:
+        user1 = get_object_or_404(UserProfileModel, username=request.user.username)
+        tk = user1.tokens
+    else:
+        tk = 1
 
     # create a form instance and populate it with data from the request:
-    form = InputForm(request.POST, initial={'user': request.user.id})
+    form = InputForm(request.POST)
     # create the django object in memory, but don't save to the database
 
     if tk >= 1:
@@ -117,16 +120,17 @@ def home_input_view(request):
         if request.method == 'POST':
 
             # check whether it's valid:
-
             if form.is_valid():
-                form.save(commit=True)
+                obj = form.save(commit=False)
+                obj.user = request.user
+                obj.save()
 
                 # process the data in form.cleaned_data as required
                 # ...
 
                 UserProfileModel.objects.filter(username=request.user.username).update(tokens=(tk - 1))
                 # redirect to a new URL:
-                return HttpResponseRedirect('/reports')
+                return HttpResponseRedirect('/reports', {'form': form})
     else:
         # Better be a error page
         print("user has no tokens")
